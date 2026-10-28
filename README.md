@@ -69,7 +69,7 @@ Visualization and Analysis
 
 ```bash
 git clone https://github.com/tovibhas1110/ComputerVisionAI.git
-cd ComputerVisionAI
+cd ComputerVisionAI/proto
 ```
 
 ### 2. Create a Python virtual environment
@@ -77,6 +77,7 @@ cd ComputerVisionAI
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
+python3 script.py
 ```
 
 ### 3. Install dependencies
